@@ -1,10 +1,13 @@
-# Strogonoff de Frango :chicken
+# Strogonoff de frango simples
 
-### Ingredientes
- - 1 kg
- - 1/2 kg de farinha
- - 1 copo americano de água morna
- - 30 g de fermento fresco
- - 1/2 xícara de óleo
- - 1 colheres de chá de sal
- - 1 colher de café de açúcar
+### Ingredientes 
+ - 1 quilo de peito de frango sem pele
+ - 1 tablete de caldo de galinha
+ - 3 colheres de sopa de óleo
+ - 2 latas de creme de leite sem soro
+ - 2 colheres de sopa de molho de tomate
+ - 2 colheres de sopa de ketchup
+ - 2 colheres de sopa de mostarda
+ - Champignon
+
+Batata palha e arroz branco para acompanhar
